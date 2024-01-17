@@ -1,0 +1,14 @@
+C:\Users\rameez.khalil\Desktop\Coding\C#\OOP\Classes And Objects\bin\Debug\net8.0\Classes And Objects.exe
+C:\Users\rameez.khalil\Desktop\Coding\C#\OOP\Classes And Objects\bin\Debug\net8.0\Classes And Objects.deps.json
+C:\Users\rameez.khalil\Desktop\Coding\C#\OOP\Classes And Objects\bin\Debug\net8.0\Classes And Objects.runtimeconfig.json
+C:\Users\rameez.khalil\Desktop\Coding\C#\OOP\Classes And Objects\bin\Debug\net8.0\Classes And Objects.dll
+C:\Users\rameez.khalil\Desktop\Coding\C#\OOP\Classes And Objects\bin\Debug\net8.0\Classes And Objects.pdb
+C:\Users\rameez.khalil\Desktop\Coding\C#\OOP\Classes And Objects\obj\Debug\net8.0\Classes And Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rameez.khalil\Desktop\Coding\C#\OOP\Classes And Objects\obj\Debug\net8.0\Classes And Objects.AssemblyInfoInputs.cache
+C:\Users\rameez.khalil\Desktop\Coding\C#\OOP\Classes And Objects\obj\Debug\net8.0\Classes And Objects.AssemblyInfo.cs
+C:\Users\rameez.khalil\Desktop\Coding\C#\OOP\Classes And Objects\obj\Debug\net8.0\Classes And Objects.csproj.CoreCompileInputs.cache
+C:\Users\rameez.khalil\Desktop\Coding\C#\OOP\Classes And Objects\obj\Debug\net8.0\Classes And Objects.dll
+C:\Users\rameez.khalil\Desktop\Coding\C#\OOP\Classes And Objects\obj\Debug\net8.0\refint\Classes And Objects.dll
+C:\Users\rameez.khalil\Desktop\Coding\C#\OOP\Classes And Objects\obj\Debug\net8.0\Classes And Objects.pdb
+C:\Users\rameez.khalil\Desktop\Coding\C#\OOP\Classes And Objects\obj\Debug\net8.0\Classes And Objects.genruntimeconfig.cache
+C:\Users\rameez.khalil\Desktop\Coding\C#\OOP\Classes And Objects\obj\Debug\net8.0\ref\Classes And Objects.dll
