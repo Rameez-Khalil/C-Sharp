@@ -1,0 +1,14 @@
+C:\Users\rameez.khalil\Desktop\Coding\C#\Methods\Anonymous methods\bin\Debug\net8.0\Anonymous methods.exe
+C:\Users\rameez.khalil\Desktop\Coding\C#\Methods\Anonymous methods\bin\Debug\net8.0\Anonymous methods.deps.json
+C:\Users\rameez.khalil\Desktop\Coding\C#\Methods\Anonymous methods\bin\Debug\net8.0\Anonymous methods.runtimeconfig.json
+C:\Users\rameez.khalil\Desktop\Coding\C#\Methods\Anonymous methods\bin\Debug\net8.0\Anonymous methods.dll
+C:\Users\rameez.khalil\Desktop\Coding\C#\Methods\Anonymous methods\bin\Debug\net8.0\Anonymous methods.pdb
+C:\Users\rameez.khalil\Desktop\Coding\C#\Methods\Anonymous methods\obj\Debug\net8.0\Anonymous methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rameez.khalil\Desktop\Coding\C#\Methods\Anonymous methods\obj\Debug\net8.0\Anonymous methods.AssemblyInfoInputs.cache
+C:\Users\rameez.khalil\Desktop\Coding\C#\Methods\Anonymous methods\obj\Debug\net8.0\Anonymous methods.AssemblyInfo.cs
+C:\Users\rameez.khalil\Desktop\Coding\C#\Methods\Anonymous methods\obj\Debug\net8.0\Anonymous methods.csproj.CoreCompileInputs.cache
+C:\Users\rameez.khalil\Desktop\Coding\C#\Methods\Anonymous methods\obj\Debug\net8.0\Anonymous methods.dll
+C:\Users\rameez.khalil\Desktop\Coding\C#\Methods\Anonymous methods\obj\Debug\net8.0\refint\Anonymous methods.dll
+C:\Users\rameez.khalil\Desktop\Coding\C#\Methods\Anonymous methods\obj\Debug\net8.0\Anonymous methods.pdb
+C:\Users\rameez.khalil\Desktop\Coding\C#\Methods\Anonymous methods\obj\Debug\net8.0\Anonymous methods.genruntimeconfig.cache
+C:\Users\rameez.khalil\Desktop\Coding\C#\Methods\Anonymous methods\obj\Debug\net8.0\ref\Anonymous methods.dll
